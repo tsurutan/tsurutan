@@ -614,3 +614,20 @@ margin-top:50px;
     font-size: 17px;
     font-weight: 700;
 }
+
+.privacy-policy {
+  margin: 12px;
+}
+
+.privacy-policy h1 {
+  font-size: 30px;
+}
+
+.privacy-policy h2 {
+  font-size: 20px;
+}
+
+.privacy-policy__block {
+  background: #FAFAFA;
+  padding: 12px 8px 12px;
+}
